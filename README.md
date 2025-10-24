@@ -1,2 +1,69 @@
-# cocoyell-privacy
-CocoYell（スミス）アプリのプライバシーポリシー
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CocoYell（スミス）プライバシーポリシー</title>
+  <style>
+    body {
+      font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fafafa;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>CocoYell（スミス）プライバシーポリシー</h1>
+  <p>このアプリ「CocoYell（スミス）」は、ユーザーの心に寄り添い、日々の気づきや感情を整理するためのAIカウンセラーアプリです。以下のとおり、ユーザーのプライバシーを尊重し、個人情報の取り扱いについて定めます。</p>
+
+  <h2>1. 収集する情報</h2>
+  <ul>
+    <li>Googleログインを利用した認証情報（メールアドレス、ユーザー名）</li>
+    <li>アプリ内で入力された日記やメッセージ内容（AI応答生成のみに使用）</li>
+    <li>画像データ（ユーザーが日記投稿時に選択した場合）</li>
+  </ul>
+
+  <h2>2. 利用目的</h2>
+  <ul>
+    <li>AIによる共感的なフィードバックの提供</li>
+    <li>利用回数や機能制限の管理（無料・有料プランの区別）</li>
+    <li>アプリ品質向上・不具合対応</li>
+  </ul>
+
+  <h2>3. 情報の管理</h2>
+  <p>取得した情報はFirebaseおよびOpenAI APIを通じて安全に取り扱い、外部への不正な共有や販売は一切行いません。</p>
+
+  <h2>4. 外部サービスの利用</h2>
+  <ul>
+    <li>Firebase（Google LLC）</li>
+    <li>OpenAI API</li>
+  </ul>
+
+  <h2>5. ユーザーの権利</h2>
+  <p>ユーザーはいつでも自身のデータ削除を希望できます。削除を希望される場合は、以下のサポートメールにご連絡ください。</p>
+
+  <h2>6. お問い合わせ先</h2>
+  <p>運営者: ヘイワナソラ<br>
+  メール: <a href="mailto:support@cocoyell.app">support@cocoyell.app</a></p>
+
+  <h2>7. 改定</h2>
+  <p>本ポリシーは、法令の改定またはサービス内容の変更に応じて予告なく更新されることがあります。</p>
+
+  <footer>
+    <p>© 2025 CocoYell / Heiwansora</p>
+  </footer>
+</body>
+</html>
